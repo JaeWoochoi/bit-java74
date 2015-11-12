@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project-modules id="moduleCoreId" project-version="1.5.0">
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
 	<wb-module deploy-name="git-test01">
 		<property name="context-root" value="git-test01"/>
 		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/resources"/>
 		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/java"/>
 		<wb-resource deploy-path="/" source-path="src/main/webapp"/>
-		<wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-		<wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
-		<wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
-		<wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/resources"/>
 		<dependent-module deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/choi/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.2.2.RELEASE/4c929309bc6b7f3642c7d500e2ea11edca7270e8/spring-webmvc-4.2.2.RELEASE.jar">
 			<dependency-type>uses</dependency-type>
 		</dependent-module>
